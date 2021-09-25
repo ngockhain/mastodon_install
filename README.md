@@ -2,7 +2,7 @@
 Instal mastodon for development (localhost)
 Mở cmd trong thư mục này lên.
 
-- Tạo thư mục mới, đặt tên là railsapp. Thư mục này sẽ được clone code của mastodon.
+- Tạo thư mục mới, đặt tên là railsapp. Thư mục này sẽ được clone code của mastodon (trong bước 5).
 1. Chạy build_image.bat
 2. Chạy run_container.bat
 3. Chạy connect_to_container.bat
