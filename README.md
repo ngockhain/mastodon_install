@@ -98,7 +98,7 @@ Cài sudo:
 > CREATE USER mastodon CREATEDB; <br>
 > \q
 7. Cài đặt mastodon.
-> su - mastodon
+> su - mastodon <br>
 > cd /railsapp/ <br>
 > git clone https://github.com/tootsuite/mastodon.git live && cd live <br>
 > git checkout $(git tag -l | grep -v 'rc[0-9]*$' | sort -V | tail -n 1) <br>
